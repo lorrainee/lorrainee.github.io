@@ -59,6 +59,13 @@ a:hover {
 	max-height: 100%;
 }
 
+#logo {
+	height: 225px;
+	max-width: 100%;
+	max-height: 100%;
+	color: #555;
+}
+
 .thumbnails img {
 	height: 80px;
 	border: 2px solid #555;
