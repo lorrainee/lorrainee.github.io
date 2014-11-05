@@ -12,11 +12,11 @@ a {
 }
 
 a:hover {
-	color: purple;
+	color: DeepPink;
 }
 
 #headshot1 {
-	border: 3px solid MidnightBlue;
+	border: 3px solid Crimson;
 	/*border-radius: 9999999px;*/
 	float: left;
 	height: 250px;
@@ -25,7 +25,7 @@ a:hover {
 }
 
 #headshot2 {
-	border: 3px solid MidnightBlue;
+	border: 3px solid Crimson;
 	/*border-radius: 9999999px;*/
 	float: right;
 	height: 250px;
@@ -34,7 +34,7 @@ a:hover {
 }
 
 #headshot1_blog {
-	border: 3px solid MidnightBlue;
+	border: 3px solid Crimson;
 	/*border-radius: 9999999px;*/
 	float: left;
 	height: 150px;
@@ -43,7 +43,7 @@ a:hover {
 }
 
 #headshot2_blog {
-	border: 3px solid MidnightBlue;
+	border: 3px solid Crimson;
 	/*border-radius: 9999999px;*/
 	float: right;
 	height: 150px;
@@ -52,7 +52,7 @@ a:hover {
 }
 
 #individual {
-	border: 2px solid #555;
+	border: 2px solid Crimson;
 	/*border-radius: 9999999px;*/
 	height: 250px;
 	max-width: 100%;
@@ -63,25 +63,29 @@ a:hover {
 	height: 225px;
 	max-width: 100%;
 	max-height: 100%;
-	color: #555;
+}
+
+#logo_font {
+	/*font-family: 'Fredoka One', cursive;*/
+	font-family: 'Orbitron', sans-serif;
 }
 
 .thumbnails img {
 	height: 80px;
-	border: 2px solid #555;
+	border: 2px solid LightCoral;
 	padding: 1px;
 	margin: 0 10px 10px 0;
 }
 
 .thumbnails img:hover {
-	border: 2px solid #00ccff;
+	border: 2px solid Crimson;
 	cursor:pointer;
 }
 
 .preview img {
-	border: 4px solid #444;
+	border: 4px solid LightCoral;
 	padding: 1px;
-	height: 500px;
+	height: 475px;
 }
 
 p, li {
@@ -99,8 +103,10 @@ h5 {
 }
 
 .jumbotron {
-	color: MidnightBlue;
-	background-color: LightSlateGray;
+	color: Crimson;
+	background-color: DimGray;
+	background-image: url('jumbotron_background.jpg');
+	/*background-color: LightSlateGray;*/
 	/*height: 300px;*/
 	margin: 10px auto;
   	padding: 10px;
@@ -109,7 +115,7 @@ h5 {
 
 .table-hover tbody tr:hover td, 
 .table-hover tbody tr:hover th {
-  background-color: DarkMagenta;
+  background-color: LightCoral;
 }
 
 .list-group {
