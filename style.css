@@ -16,7 +16,7 @@ a:hover {
 }
 
 #headshot1 {
-	border: 3px solid Crimson;
+	border: 3px solid LightCoral;
 	/*border-radius: 9999999px;*/
 	float: left;
 	height: 250px;
@@ -25,7 +25,7 @@ a:hover {
 }
 
 #headshot2 {
-	border: 3px solid Crimson;
+	border: 3px solid LightCoral;
 	/*border-radius: 9999999px;*/
 	float: right;
 	height: 250px;
@@ -34,7 +34,7 @@ a:hover {
 }
 
 #headshot1_blog {
-	border: 3px solid Crimson;
+	border: 3px solid LightCoral;
 	/*border-radius: 9999999px;*/
 	float: left;
 	height: 150px;
@@ -43,7 +43,7 @@ a:hover {
 }
 
 #headshot2_blog {
-	border: 3px solid Crimson;
+	border: 3px solid LightCoral;
 	/*border-radius: 9999999px;*/
 	float: right;
 	height: 150px;
@@ -52,7 +52,7 @@ a:hover {
 }
 
 #individual {
-	border: 2px solid Crimson;
+	border: 2px solid LightCoral;
 	/*border-radius: 9999999px;*/
 	height: 250px;
 	max-width: 100%;
